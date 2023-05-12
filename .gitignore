@@ -1,0 +1,8 @@
+/target
+/.xwin-cache
+/.xwin
+.cargo # I shouldn't, but it's better for Windows users
+# nixago: ignore-linked-files
+.cargo/config.toml
+.direnv
+result
